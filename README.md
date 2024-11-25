@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hemakanth 
+# Hi there, I'm Hemakanth 
 
 Welcome to my GitHub profile! Here's a little about me:  
 
