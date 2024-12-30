@@ -1,8 +1,6 @@
-# Hi there, I'm Hemakanth 
-
-Welcome to my GitHub profile! Here's a little about me:  
-
--  **I’m currently pursuing** a degree in **Electrical & Electronic Engineering** at the **University of Jaffna**.  
+#  Hemakanth Natkunaraja
+  
+-  **Currently pursuing** a degree in **Electrical & Electronic Engineering** at the **University of Jaffna**.  
 - 🔭 **My interests include**:  
   - Embedded systems and IoT  
   - Signal processing  
